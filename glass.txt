@@ -1,0 +1,146 @@
+https://gamedev.stackexchange.com/questions/98557/glass-material-for-unity-5
+
+___________________________________________________________
+How can I create a realistic glass window in Unity3D 5?
+
+
+https://www.quora.com/How-can-I-create-a-realistic-glass-window-in-Unity3D-5
+__________________________________________________________________
+vivek reddy blog
+
+http://www.vivekc.com/theory-of-achieving-photo-realism-in-unity-5/
+_____________________________________________________________________________
+ Topic: Texture appears to dark in Unity 5 Metal/Roughness Workflow  (Read 5631 times)
+
+
+https://forum.allegorithmic.com/index.php?topic=6373.0
+____________________________________________________________________________________
+Photo-realistic" quality rendering between Unity and Unreal 4
+
+https://forum.unity3d.com/threads/photo-realistic-quality-rendering-between-unity-and-unreal-4.262181/
+______________________________________________________________________________________________________________
+
+glass shader
+
+https://forum.unity3d.com/threads/glass-shader.8976/
+_______________________________________________________________________________
+http://techkind.org/Unity5/
+____________________________________|
+http://techkind.org/Unity5/
+_____________________________________________
+How can I create a realistic glass window in Unity3D 5?
+https://www.quora.com/How-can-I-create-a-realistic-glass-window-in-Unity3D-5
+______________________________________________________________________
+Glass Material for Unity 5
+https://gamedev.stackexchange.com/questions/98557/glass-material-for-unity-5
+______________________________________________________________________________________
+
+UNITY 5 new shaders, WOOD, GLASS and LIGHTING
+
+https://www.youtube.com/watch?v=IsruMZXo4jI
+_______________________________________________________________________________________________________________________________________________________________
+Creating a Basic Glass Material in Unity 5
+
+https://www.youtube.com/watch?v=Gfq1aB2-qtk
+_______________________________________________________________________________________________
+https://www.youtube.com/watch?v=FNYW5yYc-So
+Glass Shader Unity 5
+_________________________________________________________________________________________________________________
+Unity 3d Window Glass Transparency EASY Tutorial
+
+https://www.youtube.com/watch?v=p7B_DXxqiGw
+___________________________________________________________________________________
+Unity3d make glass material with textures
+https://www.youtube.com/watch?v=dZZ9R80qFgw
+____________________________________________________________________________
+Simple glass in Unity3D free (important)
+
+https://www.youtube.com/watch?v=Cb73HElbfD4
+_____________________________________________________________________________________________
+uShader - Refraction
+
+https://www.youtube.com/watch?v=NnHCQQGCA8Y
+_____________________________________________________________________________________________________________
+Unity shader : Simple Glass
+https://www.youtube.com/watch?v=Hh1RkUWN-OU
+___________________________________________________________________________________________________________
+The Beginner’s Guide to Physically Based Rendering in Unity
+
+http://blog.teamtreehouse.com/beginners-guide-physically-based-rendering-unity
+____________________________________________________________________________________________
+Creating a Distorted / Frosted Glass Material in Unity 5
+
+https://www.youtube.com/watch?v=kmJsTiboev8
+_______________________________________________________________
+Unity 5, vidro realista (glass effect)
+
+https://www.youtube.com/watch?v=8mRjtTtkquA
+_________________________________________________________________________________
+Creating a Basic Glass Material in Unity 5
+
+https://www.youtube.com/watch?v=Gfq1aB2-qtk
+___________________________________________________________________________________________________________________
+Unity 5 Graphics - The Standard Shader - Unity Official Tutorials
+
+https://www.youtube.com/watch?v=fD_ho_ofY6A
+_____________________________________________________________________________________________________
+
+Simple High-End Mobile Shaders - Unity3d - Unity - Refracted Glass - How To
+https://www.youtube.com/watch?v=hBVY6c_FBRU
+_____________________________________________________________________________________________________
+
+Creating a Glass Cube - Tutorial - *requires Fantastic Glass* - Unity3D
+
+https://www.youtube.com/watch?v=BR4bopBaQ00
+_______________________________________________________________________________________________
+Reflection Probes in Unity 5
+
+https://www.youtube.com/watch?v=ximKTroBqeA
+__________________________________________________________________________________________
+
+Realtime Reflection for Mobile Interior Lighting(important)
+
+https://www.youtube.com/watch?v=BFIPsOaltlw
+_________________________________________________________________________________________________________________________________
+
+Realtime Reflection for Mobile Interior Lighting part 2 (important)
+
+https://www.youtube.com/watch?v=eKBvRUFOUdA
+_______________________________________________________________________________________________________________
+Unity3d make glass material with textures
+https://www.youtube.com/watch?v=dZZ9R80qFgw
+________________________________________________________________________________________________________________________________________________________
+How to make a Simple Transparent Glass (Blender, Cycles)  ((((important)
+
+https://www.youtube.com/watch?v=_44rg3XS3ao
+_________________________________________________________________________
+Unity 3D - High Quality Glass - Alessio Regalbuto (important))))
+
+https://www.youtube.com/watch?v=nhcatIq8Gjc
+________________________________________________________________________________________________________________________________
+Working with Physically-Based Shading: a Practical Approach((((((((important))))))))))))
+
+
+https://blogs.unity3d.com/2015/02/18/working-with-physically-based-shading-a-practical-approach/
+_________________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
